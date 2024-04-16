@@ -45,15 +45,17 @@
 
 ## **where each shared resource is recognized** as **proof of abundance** and registered by the projects in ethereum **ReFi** ecosystem through the interface that **ReRe** has with [greenpill BR](https://explorer.gitcoin.co/#/round/10/0xe9459565709c5e856ffbc3cc8715824945d92de7/13)
 
-## but that´s only the very first step towards the co-evolution of ReRe CPSR (Common Pool of Shareable Resources) as an new IRL cyber cultural primitive for the regenerative web3 space once now we aim to transform it in an DAPP that bridges ReRe abundance logic wealth generator to [Gregory´s Landua](https://gov.gitcoin.co/t/the-donut-economy-x-8-forms-of-capital/10079) **08 forms of capital** that inspired Kevin`s Owocki greenpill book and further more the ongong co-creation of the [greenpill network](https://greenpill.network/) 
+## but that´s only the very first step towards the co-evolution of ReRe CPoSR (Common Pool of Shareable Resources) as an new IRL cyber cultural primitive for the regenerative web3 space once now we aim to transform it in an DAPP that bridges ReRe abundance logic wealth generator to [Gregory´s Landua](https://gov.gitcoin.co/t/the-donut-economy-x-8-forms-of-capital/10079) **08 forms of capital** that inspired Kevin`s Owocki greenpill book and further more the ongong co-creation of the [greenpill network](https://greenpill.network/) 
 
 [![Firefox-Screenshot-2024-04-16-T18-06-02-579-Z.png](https://i.postimg.cc/4ymhPvYH/Firefox-Screenshot-2024-04-16-T18-06-02-579-Z.png)](https://postimg.cc/H81xsy4T)
 
 # **and how we´re going to do that** ? 
+<img src="https://github.com/ReRe-Recursos-Regenerativos/CPoSR/blob/main/images/CPoSR2.png" width="600px">
+
+## by indexing each different type of shared resources (*abundant, empathic and conditioned*) to the equivalent form of capital for each CPoSR.
 
 
-
-## *for this year ReRe will netweave interfaces with differents types of DLTs / DAG :  holochain, internet computer, hashgraph* ....
+## *and also for this year ReRe will netweave interfaces with differents types of DLTs / DAG :  holochain, internet computer, hashgraph* ....
 
 [![Blue-Modern-3-D-Discord-Profile-Banner-129.png](https://i.postimg.cc/4yHBS3TB/Blue-Modern-3-D-Discord-Profile-Banner-129.png)](https://postimg.cc/ctZRK0Cn)
 
