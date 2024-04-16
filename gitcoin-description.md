@@ -45,7 +45,7 @@
 
 ## **where each shared resource is recognized** as **proof of abundance** and registered by the projects in ethereum **ReFi** ecosystem through the interface that **ReRe** has with [greenpill BR](https://explorer.gitcoin.co/#/round/10/0xe9459565709c5e856ffbc3cc8715824945d92de7/13)
 
-## **but that´s only the very first step towards the co-evolution of the ReRe`s **CPSR** (*common pool of shareable resources*) as an new **IRL cyber cultural primitive** for the **web3** space once now will aim to transform it in an DAPP that bridges ReRe´s abundance logic wealth generator to [Gregory´s Landua](https://gov.gitcoin.co/t/the-donut-economy-x-8-forms-of-capital/10079] **08 forms of capital** that inspired Kevin`s Owocki **greenpill book** and further more the ongong co-creation of the [greenpill network](https://greenpill.network/) 
+## **but that´s only the very first step towards the co-evolution of the ReRe`s **CPSR** (*common pool of shareable resources*) as an new **IRL cyber cultural primitive** for the **web3** space once now will aim to transform it in an DAPP that bridges ReRe´s abundance logic wealth generator to [Gregory´s Landua](https://gov.gitcoin.co/t/the-donut-economy-x-8-forms-of-capital/10079) **08 forms of capital** that inspired Kevin`s Owocki **greenpill book** and further more the ongong co-creation of the [greenpill network](https://greenpill.network/) 
 
 
 
