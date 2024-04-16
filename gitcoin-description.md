@@ -49,6 +49,8 @@
 
 [![Firefox-Screenshot-2024-04-16-T18-06-02-579-Z.png](https://i.postimg.cc/4ymhPvYH/Firefox-Screenshot-2024-04-16-T18-06-02-579-Z.png)](https://postimg.cc/H81xsy4T)
 
+# **and how we´re going to do that** ? 
+
 
 
 ## *for this year ReRe will netweave interfaces with differents types of DLTs / DAG :  holochain, internet computer, hashgraph* ....
