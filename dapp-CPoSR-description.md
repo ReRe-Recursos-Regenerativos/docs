@@ -1,10 +1,6 @@
-# ReRe - Regenerative Resources
-## Project description
-Here we write the text of Project description to Dapps & Apps on Gitcoin.
+**Common Pool of Shareable Resources**
 
-**Common Pool of Shared Resources**
-
-A common pool of shared resources solves several problems, including:
+A common pool of shareable resources solves several problems, including:
 
 1. **Equal Access:** It allows participants to access financial resources and services that would otherwise be inaccessible to them.
 
@@ -16,4 +12,4 @@ A common pool of shared resources solves several problems, including:
 
 5. **Innovation and Creativity:** It stimulates innovation and creativity by providing an environment where participants can experiment and collaborate on new ideas and projects.
 
-In summary, the common pool of shared resources helps promote equality, collaboration, and efficiency, while also fostering innovation and creativity within the community.
+In summary, the common pool of shareable resources helps promote equality, collaboration, and efficiency, while also fostering innovation and creativity within the community.
