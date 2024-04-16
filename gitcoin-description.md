@@ -47,6 +47,8 @@
 
 ## but that´s only the very first step towards the co-evolution of ReRe CPSR (Common Pool of Shareable Resources) as an new IRL cyber cultural primitive for the regenerative web3 space once now we aim to transform it in an DAPP that bridges ReRe abundance logic wealth generator to [Gregory´s Landua](https://gov.gitcoin.co/t/the-donut-economy-x-8-forms-of-capital/10079) **08 forms of capital** that inspired Kevin`s Owocki greenpill book and further more the ongong co-creation of the [greenpill network](https://greenpill.network/) 
 
+[![Firefox-Screenshot-2024-04-16-T18-06-02-579-Z.png](https://i.postimg.cc/4ymhPvYH/Firefox-Screenshot-2024-04-16-T18-06-02-579-Z.png)](https://postimg.cc/H81xsy4T)
+
 
 
 ## *for this year ReRe will netweave interfaces with differents types of DLTs / DAG :  holochain, internet computer, hashgraph* ....
