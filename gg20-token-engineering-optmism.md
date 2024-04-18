@@ -8,18 +8,19 @@
 - [ ] Education
 - [ ] Research
 - [ ] Tooling
-- [ ] Social Infrastructure
+- [x] Social Infrastructure
 
 ## What specific problem(s) do you seek to solve with this grant, and how will you know whether you have accomplished your goal(s)?
 
 ## Describe how your project contributes to token engineering and why it is a valuable public good.
 
 ## What stage do you consider your project is currently in?
-- [ ] Proof of concept (PoC)
+- [x] Proof of concept (PoC)
 - [ ] Minimum viable product (MVP)
 - [ ] Fully integrated project
 
 ## Please share any new updates or milestones from the prior months.
+
 
 ## If your project has received prior funding from the Token Engineering Grants Program, please describe the impact that funding has had on the project.
 Public
