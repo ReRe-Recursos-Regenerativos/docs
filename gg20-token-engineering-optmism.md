@@ -1,7 +1,9 @@
 # GG20 Token Engineering - Optimism
 
 ## Individual or team summary
+Athus - \<<Add the resume here\>>
 
+Vinicius - \<<Add the resume here\>>
 
 ## Project category
 
