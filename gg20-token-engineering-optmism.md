@@ -39,24 +39,32 @@ Ultimately, our success will be measured by the extent to which the CPoSR projec
 Public
 Optional
 
+No previous funding received
+
 ## Previous project funding sources (VC, grants, token sales, etc.)
 Public
 *Required
 
+No previous funding received
+
 ## Total prior funding for the project in USD
 Public
 *Required
+
+0
 
 ## How did you hear about the Token Engineering Grants Program?
 Hidden
 Encrypted
 Optional
 
+Gitcoin Explorer
+
 ## Would you agree to participate in a follow-up survey approximately 8 weeks after the grant round to assess the impact of the funding on your project?
 Hidden
 Encrypted
 *Required
-Yes
+**Yes**
 No
 
 ## Anything else you'd like to share about your project, previous work, or other project affiliations? Anything you'd like to add that has not been covered?
