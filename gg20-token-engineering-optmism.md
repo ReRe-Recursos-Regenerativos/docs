@@ -34,6 +34,23 @@ Ultimately, our success will be measured by the extent to which the CPoSR projec
 
 ## Please share any new updates or milestones from the prior months.
 
+**2022**
+
+- Primavera Regenerativa 2022 junto com o Rio Crypto Hub, 
+- Two IRL events in Sao Tomé das Letras to educate the local commerce agents about Web3. 
+
+**2023**
+
+NFT Feijão Amigo Launching
+Feijoada SAFA 2023
+Mutirão de plantio do Feijão junto à AgroforestDAO em Bias Fortes - MG 
+
+**2024**
+
+Feijoada SAFA
+Mutirão de Plantio do Arroz junto à AgroforestDAO em Bias Fortes - MG
+
+
 
 ## If your project has received prior funding from the Token Engineering Grants Program, please describe the impact that funding has had on the project.
 Public
