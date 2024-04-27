@@ -3,7 +3,8 @@
 ## Individual or team summary
 Athus - Developer and project manager. Has been responsible for web3 testing and prototypes and also onboarding projects to web3 in Brazil.
 
-Vinicius - \<<Add text here\>>
+Vinicius - 5.6 years old, interdependent to the core, web1 cypherpunk, commoner, netweaver & glocal explorer of the borders of the countless social worlds that exist among us, tireless co-creator of interactive micro-realities linked to the logic of abundance
+
 
 ## Project category
 
