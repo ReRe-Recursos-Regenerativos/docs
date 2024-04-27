@@ -36,18 +36,18 @@ Ultimately, our success will be measured by the extent to which the CPoSR projec
 
 **2022**
 
-- Primavera Regenerativa 2022 junto com o Rio Crypto Hub, 
-- Two IRL events in Sao Tomé das Letras to educate the local commerce agents about Web3. 
+- [Primavera Regenerativa 2022 junto com o Rio Crypto Hub](https://x.com/rere_abundance/status/1585863440593145856)
+- [IRL events in Sao Tomé das Letras to educate the local commerce agents about Web3](https://x.com/rere_abundance/status/1596327813736697856)
 
 **2023**
 
-NFT Feijão Amigo Launching
-Feijoada SAFA 2023
+[Feijoada SAFA 2023](https://x.com/rere_abundance/status/1635412296217550849)
+[NFT Feijão Amigo Launch - AgroforestDAO](https://x.com/rere_abundance/status/1649590783509508096)
 Mutirão de plantio do Feijão junto à AgroforestDAO em Bias Fortes - MG 
 
 **2024**
 
-Feijoada SAFA
+[Feijoada SAFA](https://x.com/docum3ant/status/1773455999380107360)
 Mutirão de Plantio do Arroz junto à AgroforestDAO em Bias Fortes - MG
 
 
