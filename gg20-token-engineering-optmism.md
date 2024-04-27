@@ -41,15 +41,12 @@ Ultimately, our success will be measured by the extent to which the CPoSR projec
 
 **2023**
 
-[Feijoada SAFA 2023](https://x.com/rere_abundance/status/1635412296217550849)
-[NFT Feijão Amigo Launch - AgroforestDAO](https://x.com/rere_abundance/status/1649590783509508096)
-Mutirão de plantio do Feijão junto à AgroforestDAO em Bias Fortes - MG 
+- [Feijoada SAFA 2023](https://x.com/rere_abundance/status/1635412296217550849)
+- [NFT Feijão Amigo Launch - AgroforestDAO](https://x.com/rere_abundance/status/1649590783509508096)
 
 **2024**
 
-[Feijoada SAFA](https://x.com/docum3ant/status/1773455999380107360)
-Mutirão de Plantio do Arroz junto à AgroforestDAO em Bias Fortes - MG
-
+- [Feijoada SAFA](https://x.com/docum3ant/status/1773455999380107360)
 
 
 ## If your project has received prior funding from the Token Engineering Grants Program, please describe the impact that funding has had on the project.
