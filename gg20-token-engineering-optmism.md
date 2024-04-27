@@ -44,14 +44,10 @@ Considering the type of cyber cultural primitives that ReRe as an web3 cultural 
 
 
 ## If your project has received prior funding from the Token Engineering Grants Program, please describe the impact that funding has had on the project.
-Public
-Optional
 
 No previous funding received
 
 ## Previous project funding sources (VC, grants, token sales, etc.)
-Public
-*Required
 
 No previous funding received
 
@@ -62,18 +58,12 @@ Public
 0
 
 ## How did you hear about the Token Engineering Grants Program?
-Hidden
-Encrypted
-Optional
-
-Gitcoin Explorer
+We have seen the Token Engineering Grants Program at Gitcoin Explorer website.
 
 ## Would you agree to participate in a follow-up survey approximately 8 weeks after the grant round to assess the impact of the funding on your project?
-Hidden
-Encrypted
-*Required
+
 **Yes**
-No
+
 
 ## Anything else you'd like to share about your project, previous work, or other project affiliations? Anything you'd like to add that has not been covered?
 Certainly ! We would start by saying that this specific project - co-create a ReFi holistic tokenomics framework based on the 08 forms of capital of greenpill network for CPoSR`s abundance logic P2P interactive dynamics - has as antecedent at least 07 years of commons-driven intense explorations with hundreds of people through different projects and opensource initiatives where the more recent one is related to ReRe´s value proposal as an web3 cultural regenerative protocol .... such as for instance:
